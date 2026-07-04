@@ -75,7 +75,7 @@ enum class AppDestinations(
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name! bazdmeg",
+        text = "Hello $name!",
         modifier = modifier
     )
 }
